@@ -6,6 +6,13 @@
     <PackAsTool>true</PackAsTool>
     <ToolCommandName>uni</ToolCommandName>
     <PackageOutputPath>./nupkg</PackageOutputPath>
+    <Company>osobytes</Company>
+    <Product>uni</Product>
+    <Authors>osobytes</Authors>
+    <Description>dotnet tool that allows for the user to directly install code tools from github repositories.</Description>
+    <PackageProjectUrl>https://github.com/osobytes/uni</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/osobytes/uni</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>

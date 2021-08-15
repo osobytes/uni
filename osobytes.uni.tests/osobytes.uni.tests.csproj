@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\osobytes.uni\osobytes.uni.csproj" />
+    <ProjectReference Include="..\osobytes.uni\osobytes.uni.csproj" />
   </ItemGroup>
 
 </Project>
